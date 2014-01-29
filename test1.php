@@ -1,4 +1,4 @@
 <?php 
  phpinfo();
-echo '<p>Hello Word</p>
+ echo '<p>Hello Word</p>
 ?>
